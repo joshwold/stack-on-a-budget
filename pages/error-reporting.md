@@ -2,10 +2,19 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [Bugsnag](#bugsnag)
 - [Rollbar](#rollbar)
 - [Sentry](#sentry)
 
 <!-- /TOC -->
+## Bugsnag
+
+[Pricing page](https://bugsnag.com/pricing/)
+
+* *Free tier*: 250 events/day (7,500 / month), 7-day data history
+* *Pros*: Unlimited monitored apps with support for 20+ languages and frameworks, alerting with chat / issue tracker / pagerDuty integration, stacktraces & diagnostic data automatically collected, sourcemap / ProGuard / dSYM support, regression alerts, user breadcrumb support and full API
+* *Limitations*: Custom filters limited to paid tiers; paid tiers include 60 day data rentention
+
 ## Rollbar
 
 [Pricing page](https://rollbar.com/pricing/)
